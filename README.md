@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arinmishra?tab=repositories](https://github.com/Arinmishra?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React, C++**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, C++**
 
 - 📫 How to reach me **mishraarin30@gmail.com**
 <img align="right" width="500" alt="codingimg" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
